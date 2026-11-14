@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Toxic Comment Moderator (a multi-label NLP classifier), AgriFlow<br>👯 I'm looking to collaborate on Machine learning pipelines, open-source Python/C++ tools, and hackathon builds<br>🤝 I'm looking for help with Scaling and deploying NLP/ML models in production, ML Engineering and ML Ops.<br>🌱 I'm currently learning Advanced Data Science, Multi-Label Classification, Machine Learning and Embedded Robotics<br>💬 Ask me about Python, C/C++, Machine Learning (pandas, recommendation systems), Robotics, or Linux workflows<br>⚡ Fun fact I named one of my repos Barely-Functional—yet my code still survives.
+🔭 I'm currently working on Toxic Comment Moderator (a multi-label NLP classifier), AgriFlow<br>👯 I'm looking to collaborate on Machine learning pipelines, open-source Python/C++ tools, and hackathon builds<br>🤝 I'm looking for help with Scaling, deploying ML models in production, ML Engineering and ML Ops.<br>🌱 I'm currently learning Advanced Data Science, Multi-Label Classification, Machine Learning and Embedded Robotics<br>💬 Ask me about Python, C/C++, Machine Learning (pandas, recommendation systems), Robotics, or Linux workflows<br>⚡ Fun fact I named one of my repos Barely-Functional—yet my code still survives.
 
 
 ## 🌐 Socials:
